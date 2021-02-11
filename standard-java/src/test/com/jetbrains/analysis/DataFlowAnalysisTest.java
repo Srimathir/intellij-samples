@@ -17,5 +17,7 @@ public class DataFlowAnalysisTest {
             output++;
         }
         System.out.println(output);
+
+        System.out.println("Added1 text line for git process");
     }
 }
